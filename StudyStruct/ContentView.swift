@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text(">> public BitBucket <<")
+        Text(">> public GitHub <<")
             .padding()
     }
 }
